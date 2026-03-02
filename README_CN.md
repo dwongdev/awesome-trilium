@@ -305,7 +305,7 @@
 ### 🤖 Android
 
 * [Pocket Trilium](https://github.com/nriver/pocket-trilium) ![pocket-trilium](https://img.shields.io/github/last-commit/nriver/pocket-trilium)
-  全功能的安卓Trilium应用。
+  全功能的安卓Trilium应用。可以离线运行并且能和Trilium服务器同步。
 * [在 Android 上在 Termux 中运行 Trilium 服务器](https://github.com/zadam/trilium/discussions/4542) 你手中的服务器。
   玩得开心 :)
 * [在 Android 的 Termux 上运行 TriliumNext 服务器](https://github.com/orgs/TriliumNext/discussions/5992)  
