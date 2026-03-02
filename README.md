@@ -135,6 +135,25 @@ more info.
   This uses the same theme that's used on the [trilium.rocks](https://trilium.rocks/) site from @zerebos. The link above also includes the instructions on how it can be installed. Can also be created from scratch [here](https://trilium.rocks/xecUJ8eL3pvM).
 * [Akari-Theme](https://github.com/march-7th-mini/Trilium-X-Akari) ![Akari-Theme](https://img.shields.io/github/last-commit/march-7th-mini/Trilium-X-Akari)
   Based on the Ankia and WhiteMinimalist themes, it includes a beautified homepage, embedded Kimi Chat, mask color settings, collapsible unordered lists and code blocks, a searchable and collapsible table of contents, Sakana! Widget, background music, a fully expanded navigation menu, localized MathJax right-click menu, hover-to-zoom emoji previews in comments, more pages with background image settings, and bug fixes.
+
+---
+
+## 🎨 Icon Packs
+
+The **Icon Pack** feature was introduced in Trilium 0.102.0. Customize your notes with a variety of icon styles.
+
+### Official Icon Pack
+
+Check out the [official Trilium icon pack here](https://triliumnotes.org/resources/).
+
+### 3rd-Party Icon Packs
+
+* [hulmgulm/trilium-icons](https://github.com/hulmgulm/trilium-icons) ![hulmgulm/trilium-icons](https://img.shields.io/github/last-commit/hulmgulm/trilium-icons)
+  Includes multiple icon packs:
+  * Emoji Icon Pack
+  * Font-Awesome Icon Pack
+  * Material Design Icon Pack
+
 ---
 
 ## ✂️ CSS Snippets

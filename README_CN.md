@@ -151,6 +151,25 @@
   
 ---
 
+## 🎨 图标包
+
+**图标包**功能自 Trilium 0.102.0 版本起引入。通过图标包，自定义您的笔记外观。
+
+### 官方图标包
+
+点击查看[官方 Trilium 图标包](https://triliumnotes.org/resources/)。
+
+### 第三方图标包
+
+* [hulmgulm/trilium-icons](https://github.com/hulmgulm/trilium-icons) ![hulmgulm/trilium-icons](https://img.shields.io/github/last-commit/hulmgulm/trilium-icons)
+  包含多个图标包：
+
+  * Emoji 图标包
+  * Font-Awesome 图标包
+  * Material Design 图标包
+
+---
+
 ## ✂️ CSS 片段
 
 自定义 CSS 用于改变 Trilium 的外观。这些代码片段通常带有 `#appCss` 标签。
