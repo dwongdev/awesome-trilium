@@ -153,9 +153,9 @@ Check out the [official Trilium icon pack here](https://triliumnotes.org/resourc
 
 * [hulmgulm/trilium-icons](https://github.com/hulmgulm/trilium-icons) ![hulmgulm/trilium-icons](https://img.shields.io/github/last-commit/hulmgulm/trilium-icons)
   Includes multiple icon packs:
-  * Emoji Icon Pack
-  * Font-Awesome Icon Pack
-  * Material Design Icon Pack
+  * Emoji Icon Pack: this icon pack allows to use most of the emoji characters as note icons.
+  * Font-Awesome Icon Pack: use most of the free Font-Awesome icons as note icons.
+  * Material Design Icon Pack: use Google Material Design Icon as note icons.
 
 ---
 

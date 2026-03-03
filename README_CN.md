@@ -168,9 +168,9 @@
 * [hulmgulm/trilium-icons](https://github.com/hulmgulm/trilium-icons) ![hulmgulm/trilium-icons](https://img.shields.io/github/last-commit/hulmgulm/trilium-icons)
   包含多个图标包：
 
-  * Emoji 图标包
-  * Font-Awesome 图标包
-  * Material Design 图标包
+  * Emoji 图标包：此图标包允许将大多数表情符号字符用作笔记图标。
+  * Font-Awesome 图标包：使用大多数免费的 Font-Awesome 图标作为笔记图标。
+  * Material Design 图标包：使用 Google Material Design 图标作为笔记图标。
 
 ---
 
