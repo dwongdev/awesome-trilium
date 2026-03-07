@@ -225,6 +225,8 @@ file of a widget is usually labeled with `#widget`.
   Pomodoro timer for Trilium Notes
   * [tomato-timer](https://github.com/Userwei0418/tomato-timer-widget/tree/feature/my-improvement) ![tomato-timer](https://img.shields.io/github/last-commit/Userwei0418/tomato-timer-widget)
   Enhanced Pomodoro timer widget for Trilium: adds show/hide controls and improves the UI based on the original version.
+* [trilium-antidote](https://github.com/yiranlus/trilium-antidote) ![trilium-antidote](https://img.shields.io/github/last-commit/yiranlus/trilium-antidote)
+  Antidote integration to correct text notes.
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) ![trilium-auto-hide-info-bar](https://img.shields.io/github/last-commit/SiriusXT/trilium-auto-hide-info-bar)
   Automatically hide the title bar and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
