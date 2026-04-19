@@ -111,6 +111,7 @@ which indicates the name of the theme displayed in Trilium's options panel.
   Brings the classic solarized themes to Trilium! It comes in both light and dark.
 * [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) ![Stellar Dark Theme](https://img.shields.io/github/last-commit/Lolabird/stellar-dark-theme-trilium)
   A different taste of dark theme.
+* [VOID Theme](https://github.com/DikshantJangra/void-trilium-theme) A pure black, borderless minimal dark theme for TriliumNext.
 * [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark Theme](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
   It's VSCode!
 * [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
