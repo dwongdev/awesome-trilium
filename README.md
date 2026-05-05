@@ -290,6 +290,8 @@ Remember, scripts are executable codes. Handle with caution!
   a MOTD(Message of the day) message :)
 * [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) ![Trillium Agenda](https://img.shields.io/github/last-commit/BeatLink/trilium-agenda)
   Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
+* [trilium-ai-agent](https://github.com/mrbeandev/trilium-ai-agent) ![trilium-ai-agent](https://img.shields.io/github/last-commit/mrbeandev/trilium-ai-agent)
+  AI chat widget for Trilium **share pages** (public docs). Drop-in `~shareJs` script that adds a floating "Ask the docs" bubble — the AI uses tool calls to navigate your whole shared note tree. Works with any OpenAI-compatible API (Gemini, OpenAI, OpenRouter, …).
 * [Trilium-chat](https://github.com/soulsands/trilium-chat) ![Trilium-chat](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
   Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.
 * [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
