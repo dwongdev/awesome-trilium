@@ -261,6 +261,7 @@ Magic! These code notes are typically tagged as JS frontend in Trilium.
 They're often marked with `#run=frontendStartup` for automatic execution when Trilium starts.
 Remember, scripts are executable codes. Handle with caution!
 
+* [Weekly planner](https://github.com/ecodiv/Trilium_weekly_planner) ![Weekly planner](https://img.shields.io/github/last-commit/ecodiv/Trilium_weekly_planner) A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.
 * [Better Include](https://github.com/salmund/trilium_better_include) ![Better Include](https://img.shields.io/github/last-commit/salmund/trilium_better_include)
   Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) ![Calendar & Timetable](https://img.shields.io/github/last-commit/Mangiola/trilium-scripts)
