@@ -380,6 +380,8 @@ The client implementations for ETAPI.
   Python SDK and CLI toolkit for Trilium Notes.
 * [trilium-etapi](https://github.com/rauenzi/trilium-etapi) ![trilium-etapi](https://img.shields.io/github/last-commit/rauenzi/trilium-etapi)
   A Node.js wrapper around the ETAPI for Trilium Notes.
+* [trilium-pwsh](https://github.com/ptmorris1/TriliumNext-Powershell-Module) ![trilium-pwsh](https://img.shields.io/github/last-commit/ptmorris1/TriliumNext-Powershell-Module)
+  A PowerShell wrapper around the ETAPI for Trilium Notes, with some extra features.
 
 ### 🤖 ETAPI programs
 
