@@ -218,6 +218,8 @@ file of a widget is usually labeled with `#widget`.
   The syntax highlight feature which you would like.
 * [Swap enter](https://github.com/Nriver/swap-enter-widget) ![Swap enter](https://img.shields.io/github/last-commit/Nriver/swap-enter-widget)
   Swap "enter" and "shift + enter" for Trilium Notes.
+* [Title color picker](https://github.com/Nriver/title-color-picker) ![Title color picker](https://img.shields.io/github/last-commit/Nriver/title-color-picker)
+  A beautiful and intuitive title color picker widget for Trilium Notes.
 * [Theme Switch](https://github.com/madodig/trilium-widget-theme-switch) ![Theme Switch](https://img.shields.io/github/last-commit/madodig/trilium-widget-theme-switch)
   Trilium widget for changing themes
 * [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) ![timeline](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-timeline)
