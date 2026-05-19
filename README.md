@@ -89,6 +89,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   A theme for Trilium Notes, made with Catppuccin palette.
 * [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon Theme](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   A set of light and dark colour themes for Trilium.
+* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
+  A theme that brings the style of the Eva theme plugin to VSCode, including eva-light, eva-dark, and eva-night.
 * [EverForest Ant Dark (EFAD) Trilium Theme](https://github.com/Lolabird/everforest-ant-dark-trilium-theme) ![EverForest Ant Dark (EFAD) Trilium Theme](https://img.shields.io/github/last-commit/Lolabird/everforest-ant-dark-trilium-theme)
   Trilium Notes theme to go with Everforest and Ant Dark linux desktop themes.
 * [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://img.shields.io/github/last-commit/ohmstance/trilium-lightpad-theme)
@@ -116,8 +118,6 @@ which indicates the name of the theme displayed in Trilium's options panel.
   It's VSCode!
 * [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   Dark theme that looks good and is easy on the eyes!
-* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
-  A theme that brings the style of the Eva theme plugin to VSCode, including eva-light, eva-dark, and eva-night.
 
 **Sharing Themes**
 
@@ -125,6 +125,8 @@ Sharing themes provide theming to shared notes! A sharing note can use custom th
 css note. See [Styling the shared notes](https://github.com/zadam/trilium/wiki/Sharing#styling-the-shared-notes) for
 more info.
 
+* [Akari-Theme](https://github.com/march-7th-mini/Trilium-X-Akari) ![Akari-Theme](https://img.shields.io/github/last-commit/march-7th-mini/Trilium-X-Akari)
+  Based on the Ankia and WhiteMinimalist themes, it includes a beautified homepage, embedded Kimi Chat, mask color settings, collapsible unordered lists and code blocks, a searchable and collapsible table of contents, Sakana! Widget, background music, a fully expanded navigation menu, localized MathJax right-click menu, hover-to-zoom emoji previews in comments, more pages with background image settings, and bug fixes.
 * [Ankia-Theme](https://github.com/dvai/Ankia-Theme) ![Ankia-Theme](https://img.shields.io/github/last-commit/dvai/Ankia-Theme)
   A card-style Trilium blog theme.
 * [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) ![FrostMiKu/Share.CSS](https://img.shields.io/github/last-commit/FrostMiKu/Share.CSS)
@@ -137,8 +139,6 @@ more info.
   Paper with shadow effect, cool!
 * [trilium.rocks theme](https://github.com/perfectra1n/trilium.rocks/releases/tag/1.0.0) ![trilium.rocks theme](https://img.shields.io/github/last-commit/perfectra1n/trilium.rocks)
   This uses the same theme that's used on the [trilium.rocks](https://trilium.rocks/) site from @zerebos. The link above also includes the instructions on how it can be installed. Can also be created from scratch [here](https://trilium.rocks/xecUJ8eL3pvM).
-* [Akari-Theme](https://github.com/march-7th-mini/Trilium-X-Akari) ![Akari-Theme](https://img.shields.io/github/last-commit/march-7th-mini/Trilium-X-Akari)
-  Based on the Ankia and WhiteMinimalist themes, it includes a beautified homepage, embedded Kimi Chat, mask color settings, collapsible unordered lists and code blocks, a searchable and collapsible table of contents, Sakana! Widget, background music, a fully expanded navigation menu, localized MathJax right-click menu, hover-to-zoom emoji previews in comments, more pages with background image settings, and bug fixes.
 
 ---
 

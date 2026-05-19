@@ -92,6 +92,9 @@
 * [Chameleon 主题](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon 主题](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   Trilium 的浅色和深色主题套装。
   
+* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
+ 一个将 Eva 主题插件的风格带到 VSCode 的主题，包括 eva-light、eva-dark 和 eva-night。
+
 * [EverForest Ant Dark (EFAD) Trilium 主题](https://github.com/Lolabird/everforest-ant-dark-trilium-theme) ![EverForest Ant Dark (EFAD) Trilium 主题](https://img.shields.io/github/last-commit/Lolabird/everforest-ant-dark-trilium-theme)  
   Trilium Notes 主题与 Everforest 和 Ant Dark Linux 桌面主题相配。
   
@@ -128,9 +131,6 @@
   
 * [Ra1n 的深色主题](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   一款深色主题，外观漂亮且对眼睛友好！
-  
-* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
- 一个将 Eva 主题插件的风格带到 VSCode 的主题，包括 eva-light、eva-dark 和 eva-night。
 
 
 **分享主题**
