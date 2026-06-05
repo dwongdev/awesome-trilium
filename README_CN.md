@@ -321,6 +321,12 @@
   用于轻松导入 SingleFile 存档的 Trilium 插件
 * [看板视图](https://github.com/CyrilLeblanc/trilium-kanban) ![看板视图](https://img.shields.io/github/last-commit/CyrilLeblanc/trilium-kanban)
   适用于 Trilium Notes 的看板集成
+* [收藏夹面板](https://github.com/youli42/Trilium-Favourite) ![收藏夹面板](https://img.shields.io/github/last-commit/youli42/Trilium-Favourite)
+  一个收藏夹面板插件，将带有指定标签（默认 `#favourite`）的笔记以卡片网格展示，支持标签筛选、文字搜索、分页、自定义图标和颜色高亮。
+* [Gantt TODO 面板](https://github.com/youli42/Trilium-TodoList) ![Gantt TODO 面板](https://img.shields.io/github/last-commit/youli42/Trilium-TodoList)
+  基于 Frappe Gantt 的任务管理面板，提供甘特图、任务列表、设置三个标签页。支持 `#S-`/`#E-` 日期、`#P1`~`#P4` 优先级、重复任务、跟进标记等标准任务语法。
+* [标签搜索](https://github.com/youli42/Trilium-TagSearch) ![标签搜索](https://img.shields.io/github/last-commit/youli42/Trilium-TagSearch)
+  在笔记上方展示热门标签列表，点击标签名或标签值筛选笔记。支持全文搜索、精确/模糊匹配、分页、搜索历史，标签按频率和历史加权排序。
 
 ---
 
