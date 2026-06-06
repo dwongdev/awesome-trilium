@@ -325,6 +325,12 @@ present intricate standalone HTML pages, surpassing the capabilities of small pa
   An addon for Trilium to easily import SingleFile archives.
 * [Kanban View](https://github.com/CyrilLeblanc/trilium-kanban) ![Kanban View](https://img.shields.io/github/last-commit/CyrilLeblanc/trilium-kanban)
   A Kanban integration for Trilium Notes
+* [Favourites Panel](https://github.com/youli42/Trilium-Favourite) ![Favourites Panel](https://img.shields.io/github/last-commit/youli42/Trilium-Favourite)
+  A favourites panel that displays notes with a configurable label (default `#favourite`) as a card grid with tag filtering, text search, pagination, custom icons and color accents.
+* [Gantt TODO Panel](https://github.com/youli42/Trilium-TodoList) ![Gantt TODO Panel](https://img.shields.io/github/last-commit/youli42/Trilium-TodoList)
+  A Gantt chart-based task management panel with three tabs: Gantt Chart (Frappe Gantt), Task List (sortable/paginated), and Settings. Supports `#S-`/`#E-` date markers, `#P1`~`#P4` priority, recurring tasks, and follow-up markers.
+* [Tag Search](https://github.com/youli42/Trilium-TagSearch) ![Tag Search](https://img.shields.io/github/last-commit/youli42/Trilium-TagSearch)
+  A tag search widget that displays popular tags above notes. Click tag name or value to filter, supports full-text search, exact/value matching, pagination, and search history with weighted sort.
 
 ---
 
